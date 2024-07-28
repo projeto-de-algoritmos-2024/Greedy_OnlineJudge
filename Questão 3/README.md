@@ -18,6 +18,7 @@ Você recebe uma lista de dados da cidade. Cidades que podem conter uma usina de
 ```plaintext
 k = 3
 arr = [0, 1, 1, 1, 0, 0, 0]
-
+```
 Submissões: <br>
-![image](Imagem da submissão)
+![image](https://github.com/user-attachments/assets/18505383-02e2-44e4-96bd-8899bd738c7f)
+
