@@ -14,8 +14,23 @@ Neste repositório se encontra questões resolvidas do juíz online "HackerRank"
 
 ## Questões
 
-### [191 - Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem)
+### [Questão 1: Cutting Boards](https://www.hackerrank.com/challenges/board-cutting/problem)
 **Dificuldade:** Difícil
+
+Submissões: <br>
+
+
+### [Questão 2: Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax/problem)
+**Dificuldade:** Difícil
+
+Submissões: <br>
+
+
+### [Questão 3: Nome da questão](Link)
+**Dificuldade:** Difícil
+
+Submissões: <br>
+
 
 ## Instalação 
 **Linguagem**: Python
