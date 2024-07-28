@@ -26,8 +26,8 @@ Submissões: <br>
 Submissões: <br>
 
 
-### [Questão 3: Nome da questão](Link)
-**Dificuldade:** Difícil
+### [Questão 3: Goodland Electricity](https://www.hackerrank.com/challenges/three-month-preparation-kit-pylons/problem)
+**Dificuldade:** Médio
 
 Submissões: <br>
 
