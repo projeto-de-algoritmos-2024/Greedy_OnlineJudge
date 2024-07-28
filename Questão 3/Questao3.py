@@ -10,5 +10,5 @@ def pylons(k, arr):
         if furthest < i - (k - 1):
             break
         plants += 1
-        i = furthest + 1
+        i = furthest + k
     return plants
