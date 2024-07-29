@@ -35,4 +35,4 @@ The third line contains two space-separated integers  and , the inclusive endpoi
 Print the value of M on a line.
 
 Submissões: <br>
-![image](Imagem da submissão)
+![image](https://github.com/user-attachments/assets/00ed9898-5a71-49d4-8b76-e91f9a33a3b3)
