@@ -16,7 +16,9 @@ You are given a list of city data. Cities that can contain a power plant have be
 ### Example 
 
 ```
-plaintext k = 3 arr = [0, 1, 1, 1, 0, 0, 0]
+plaintext
+k = 3
+arr = [0, 1, 1, 1, 0, 0, 0]
 ```
 
 Submissões: <br>
