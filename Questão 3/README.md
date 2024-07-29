@@ -5,20 +5,20 @@ Dificuldade: Difícil
 
 Enunciado:
 
-## Problema: Usinas de Energia em Goodland
+## Problem: Power Plants in Goodland
 
-Goodland é um país com várias cidades uniformemente espaçadas ao longo de uma linha. A distância entre cidades adjacentes é de uma unidade. Há uma reunião de planejamento de projeto de infraestrutura de energia, e o governo precisa saber o menor número de usinas de energia necessárias para fornecer eletricidade para toda a lista de cidades. Determine esse número. Se não puder ser feito, retorne `-1`.
+Goodland is a country with several cities evenly spaced along a line. The distance between adjacent cities is one unit. There is a planning meeting for a power infrastructure project, and the government needs to know the smallest number of power plants needed to supply electricity to the entire list of cities. Determine this number. If this cannot be done, return `-1`.
 
-### Descrição do Problema
+### Problem Description
 
-Você recebe uma lista de dados da cidade. Cidades que podem conter uma usina de energia foram rotuladas com `1`. Outras não adequadas para a construção de uma planta são rotuladas `0`. Dada uma faixa de distribuição de `k`, encontre o menor número de usinas que devem ser construídas de modo que todas as cidades sejam atendidas. O intervalo de distribuição limita o fornecimento a cidades onde a distância é menor que `k`.
+You are given a list of city data. Cities that can contain a power plant have been labeled `1`. Others not suitable for building a plant are labeled `0`. Given a distribution range of `k`, find the smallest number of plants that must be built so that all cities are served. The distribution range limits supply to cities where the distance is less than `k`.
 
-### Exemplo
+### Example 
 
-```plaintext
-k = 3
-arr = [0, 1, 1, 1, 0, 0, 0]
 ```
+plaintext k = 3 arr = [0, 1, 1, 1, 0, 0, 0]
+```
+
 Submissões: <br>
 ![image](https://github.com/user-attachments/assets/18505383-02e2-44e4-96bd-8899bd738c7f)
 
