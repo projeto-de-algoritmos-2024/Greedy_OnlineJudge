@@ -18,6 +18,9 @@ Neste repositório se encontra questões resolvidas do juíz online "HackerRank"
 **Dificuldade:** Difícil
 
 Submissões: <br>
+![image](https://github.com/user-attachments/assets/41ae9749-610e-40c2-b36d-d4c71cf2748e)
+<br>
+![image](https://github.com/user-attachments/assets/799016dc-f0f3-460c-a590-8fecfe482c8f)
 
 
 ### [Questão 2: Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax/problem)
